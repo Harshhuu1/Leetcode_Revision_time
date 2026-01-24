@@ -20,12 +20,27 @@
 20            sort(t.begin(),t.end());
 21            return s==t;
 22        }
-23
-24    bool isAnagram(string s, string t) {
-25        //One map method
-26        return noMap(s,t);
-27
-28        
-29
-30    }
-31};
+23    bool OOnemethod(string s, string t){
+24        vector<int>freq(26,0);
+25        if (s.size()!=t.size()){
+26            return false;
+27        }
+28        for(int i=0;i<s.size();i++){
+29            freq[s[i]-'a']++;
+30            freq[t[i]-'a']--;
+31
+32        }
+33        for (int i=0;i<26;i++){
+34            if(freq[i]!=0){
+35            return false;
+36            break;}
+37        }
+38        return true;
+39    }
+40    bool isAnagram(string s, string t) {
+41        //One map method
+42        // return noMap(s,t);
+43        return OOnemethod(s,t);
+44
+45    }
+46};
