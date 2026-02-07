@@ -19,7 +19,7 @@
 19            st.append(val)
 20            MinStack.min_ele=val
 21        else:
-22            if val>=st[-1]:
+22            if val>=MinStack.min_ele:
 23                st.append(val)
 24            else:
 25                st.append(2*val-MinStack.min_ele)
@@ -38,7 +38,7 @@
 38        st=self.st
 39        if not st:
 40            return 
-41        if st[-1]>MinStack.min_ele:
+41        if st[-1]>=MinStack.min_ele:
 42            st.pop()
 43        else:
 44            MinStack.min_ele=2*MinStack.min_ele-st[-1]
