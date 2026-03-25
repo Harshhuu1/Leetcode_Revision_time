@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0213-house-robber-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -65,5 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
