@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +45,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1463-cherry-pickup-ii) |
+| [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
+## Depth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
