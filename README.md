@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -68,14 +70,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
