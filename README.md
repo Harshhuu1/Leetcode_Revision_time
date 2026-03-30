@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0132-palindrome-partitioning-ii) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
+## Hash Table
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
