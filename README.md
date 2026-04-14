@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0063-unique-paths-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0213-house-robber-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -93,5 +94,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
