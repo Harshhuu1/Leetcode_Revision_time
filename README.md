@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0094-binary-tree-inorder-traversal) |
 | [0743-network-delay-time](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -103,9 +104,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0094-binary-tree-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0094-binary-tree-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harshhuu1/Leetcode_Revision_time/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
